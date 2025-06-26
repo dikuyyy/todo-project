@@ -15,6 +15,11 @@ A RESTful API built with Laravel 11 for managing todo checklists and items. This
 - MySQL or PostgreSQL (or another database supported by Laravel)
 - Git
 
+## Specification
+- Laravel
+- JWT
+- Database with Postgresql
+
 ## Installation
 
 ### 1. Clone the Repository
